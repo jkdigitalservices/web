@@ -256,7 +256,7 @@ h2{
 
 .section-planes {
     width: 100%;
-    height: 78rem;
+    height: 85rem;
     background-color: #030408;
     color: #ffffff;
     display: flexbox;
@@ -646,7 +646,7 @@ copy-logo{
         margin-top: 0rem;
         width: 50%;
         font-size: 2rem;
-        padding: 6rem 0 0 0;
+        padding: 10rem 0 0 0;
     }
 
     .servicios-digitales{
